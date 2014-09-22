@@ -48,7 +48,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://debugall.azurewebsites.net',
+        url: 'enter-url-here',
         mail: {},
         database: {
             client: 'sqlite3',
